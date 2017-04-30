@@ -1,5 +1,5 @@
 body {
-  background: white;
+background: brown;
 }
 
 * {
@@ -59,7 +59,7 @@ button:hover {
 }
 
 .wrongplace {
-  background: yellow;
+  background: red;
 }
 
 .default {
